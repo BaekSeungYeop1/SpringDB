@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/itemservice-db" />
     <file type="web" url="file://$PROJECT_DIR$/JDBC" />
+    <file type="web" url="file://$PROJECT_DIR$/springtx" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
